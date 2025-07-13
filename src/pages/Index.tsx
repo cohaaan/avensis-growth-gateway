@@ -1,8 +1,8 @@
-
 import { ArrowRight, Target, TrendingUp, Users, Mail, MapPin, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Link } from "react-router-dom";
+import Logo from "@/components/Logo";
 
 const Index = () => {
   return (
@@ -12,7 +12,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center">
-              <h1 className="text-2xl font-bold text-slate-900">Avensis Financial</h1>
+              <Logo className="h-10 w-auto text-slate-900" />
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#about" className="text-slate-700 hover:text-slate-900 transition-colors">About</a>
