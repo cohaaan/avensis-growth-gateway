@@ -139,12 +139,6 @@ const Index = () => {
               </p>
             </div>
 
-            <div className="bg-white p-8 rounded-lg shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="font-semibold text-slate-900 mb-3">Money Reimagined</h3>
-              <p className="text-slate-600">
-                Fintech that brings financial services to people who need them most.
-              </p>
-            </div>
 
             <div className="bg-white p-8 rounded-lg shadow-sm hover:shadow-md transition-shadow">
               <h3 className="font-semibold text-slate-900 mb-3">Everyday Innovation</h3>
