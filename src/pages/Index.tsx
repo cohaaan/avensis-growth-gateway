@@ -154,12 +154,6 @@ const Index = () => {
               </p>
             </div>
 
-            <div className="bg-white p-8 rounded-lg shadow-sm hover:shadow-md transition-shadow">
-              <h3 className="font-semibold text-slate-900 mb-3">Planet-First Business</h3>
-              <p className="text-slate-600">
-                Clean energy and sustainability that actually works at scale.
-              </p>
-            </div>
           </div>
 
           <div className="mt-12 text-center">
