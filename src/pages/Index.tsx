@@ -123,9 +123,6 @@ const Index = () => {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-white p-8 rounded-lg shadow-sm hover:shadow-md transition-shadow">
-              <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
-                <Target className="h-6 w-6 text-blue-600" />
-              </div>
               <h3 className="font-semibold text-slate-900 mb-3">Tech That Actually Helps</h3>
               <p className="text-slate-600">
                 Software that solves real problems for real people, not just another app.
