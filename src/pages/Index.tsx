@@ -216,37 +216,6 @@ const Index = () => {
               </div>
             </div>
 
-            <div className="bg-slate-800 p-8 rounded-lg">
-              <h3 className="text-xl font-semibold mb-6">Quick intro</h3>
-              <p className="text-slate-300 mb-6 text-sm">
-                Tell us about your company, your vision, and why you think we'd work well together.
-              </p>
-              <form className="space-y-4">
-                <input
-                  type="text"
-                  placeholder="Your name"
-                  className="w-full p-3 bg-slate-700 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:outline-none focus:border-blue-400"
-                />
-                <input
-                  type="email"
-                  placeholder="Email address"
-                  className="w-full p-3 bg-slate-700 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:outline-none focus:border-blue-400"
-                />
-                <input
-                  type="text"
-                  placeholder="Company name (if you have one)"
-                  className="w-full p-3 bg-slate-700 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:outline-none focus:border-blue-400"
-                />
-                <textarea
-                  placeholder="Tell us what you're building..."
-                  rows={4}
-                  className="w-full p-3 bg-slate-700 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:outline-none focus:border-blue-400"
-                ></textarea>
-                <Button className="w-full bg-blue-600 hover:bg-blue-700">
-                  Send Message
-                </Button>
-              </form>
-            </div>
           </div>
         </div>
       </section>
